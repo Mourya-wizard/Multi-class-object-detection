@@ -1,6 +1,6 @@
 # Multi-class-object-detection-in-Satellite-imagery
 
-This web application allows you to perform multiclass object detection in satellite imagery using YOLOv8 and Streamlit. You can easily configure the model, select an image source, and visualize the detected objects.
+This web application allows you to perform multiclass object detection in satellite imagery which is made using YOLOv8 and Streamlit. You can easily configure the model, select an image source, and visualize the detected objects.
 
 ## Features
 
