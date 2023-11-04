@@ -15,8 +15,8 @@ This web application allows you to perform multiclass object detection in satell
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/your/repository.git
-   cd repository-name
+   git clone https://github.com/Mourya-wizard/Multi-class-object-detection.git
+   cd Multi-class-object-detection
    ```
 
 2. Install the required packages using pip:
